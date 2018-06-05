@@ -33,7 +33,11 @@ En el aplicativo se puede hacer una marcación de una zona la cual quedara relac
 ## Referencias
 
 [1] https://thndl.com/
+
 [2] http://visualcomputing.github.io/Shaders/
+
 [3] https://visualcomputing.github.io/Interaction/
+
 [4] http://ketai.org/
+
 [5] https://github.com/VisualComputing/framesjs/tree/processing/examples/Advanced/SceneBuffers
